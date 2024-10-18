@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="144 212 612 792" width="612" height="792">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Front_Left" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>Front Left</title>
+    <rect fill="white" x="144" y="212" width="612" height="792"/>
+    <g id="Front_Left_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_4">
+        <line x1="144" y1="276.6875" x2="756" y2="275" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Line_5">
+        <line x1="540" y1="212" x2="541.6875" y2="1004" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Group_13">
+        <g id="Graphic_7">
+          <circle cx="324" cy="981.5" r="6.75001078583774" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_8">
+          <circle cx="297" cy="981.5" r="6.75001078583773" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(205.76047 885.0499)" fill="black">
+          <tspan font-family="Vulf Mono Code" font-size="48" fill="black" x="0" y="46" xml:space="preserve">front</tspan>
+          <tspan font-family="Hiragino Sans" font-size="48" fill="black" y="46" xml:space="preserve">⬇</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(245.81886 241)" fill="black">
+          <tspan font-family="Vulf Mono Code" font-size="12" fill="black" x="26.64" y="11" xml:space="preserve">overlap with</tspan>
+          <tspan font-family="Vulf Mono Code" font-size="12" fill="black" x="7105427e-20" y="25" xml:space="preserve">back left template</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <text transform="translate(169.93442 686.03585) rotate(-45)" fill="black">
+          <tspan font-family="Vulf Mono Code" font-size="48" fill="black" x="36948222e-20" y="46" xml:space="preserve">front left</tspan>
+          <tspan font-family="Vulf Mono Code" font-size="48" fill="black" x="35.52" y="104" xml:space="preserve">template</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(668.5569 432.80045) rotate(90)" fill="black">
+          <tspan font-family="Vulf Mono Code" font-size="24" fill="black" x="71.04" y="23" xml:space="preserve">overlap with</tspan>
+          <tspan font-family="Vulf Mono Code" font-size="24" fill="black" x="3410605e-19" y="52" xml:space="preserve">front right template</tspan>
+        </text>
+      </g>
+      <g id="Line_19">
+        <line x1="551.5875" y1="396.6636" x2="706.7667" y2="396.6636" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_20">
+        <line x1="498.57777" y1="264.1" x2="498.57777" y2="234.61264" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
